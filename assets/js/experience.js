@@ -65,7 +65,7 @@ const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
     title: "Pankh - Wings that Connect",
-    cardImage: "assets/images/experience-page/pankh.png",
+    cardImage: "assets/images/experience-page/Pankh.png",
     description:
       "Pankh helps financially weak students by connecting them with Resources.",
   },
@@ -89,13 +89,13 @@ const volunteershipcards = [
   },
   {
     title: "EnLock- Password Protection App",
-    cardImage: "assets/images/experience-page/enlock.png",
+    cardImage: "assets/images/experience-page/EnLock.png",
     description:
       "Application which helps others to secure their information, data and any other thing which they consider to remain private.",
   },
   {
     title: "Inspect It - Inspection App",
-    cardImage: "assets/images/experience-page/inspect.png",
+    cardImage: "assets/images/experience-page/Inspect.png",
     description:
       "Designed a quiz app which is used for inspection purpose.",
   },
